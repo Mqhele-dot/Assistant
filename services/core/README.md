@@ -9,6 +9,12 @@ uvicorn main:app --reload
 
 Data is persisted in `services/core/data.db` (SQLite).
 
+Fallback (no dependencies):
+```bash
+cd services/core
+python run.py
+```
+
 Endpoints:
 - `POST /chat`
 - `POST /codex/run`
