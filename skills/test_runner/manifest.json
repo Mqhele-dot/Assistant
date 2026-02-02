@@ -1,0 +1,6 @@
+{
+  "name": "test_runner",
+  "description": "Run tests from an allowlist and capture results.",
+  "tools": ["terminal"],
+  "permissions": ["run_tests"]
+}

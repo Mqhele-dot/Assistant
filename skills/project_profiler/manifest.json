@@ -1,0 +1,6 @@
+{
+  "name": "project_profiler",
+  "description": "Discover repo conventions and store lint/test commands.",
+  "tools": ["terminal", "file_scan"],
+  "permissions": ["read_repo"]
+}

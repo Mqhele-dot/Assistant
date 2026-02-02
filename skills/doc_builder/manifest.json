@@ -1,0 +1,6 @@
+{
+  "name": "doc_builder",
+  "description": "Draft documentation, READMEs, and specs from repo context.",
+  "tools": ["file_read", "diff"],
+  "permissions": ["read_repo", "propose_patch"]
+}

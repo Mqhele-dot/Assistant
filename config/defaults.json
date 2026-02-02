@@ -1,0 +1,13 @@
+{
+  "projects": [],
+  "allowed_folders": [],
+  "allowed_commands": [],
+  "enabled_skills": [
+    "code_repair",
+    "test_runner",
+    "project_profiler",
+    "safe_terminal",
+    "doc_builder",
+    "sage_layer"
+  ]
+}
