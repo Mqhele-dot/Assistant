@@ -1,0 +1,6 @@
+{
+  "name": "code_repair",
+  "description": "Diff-first bug fix workflow with minimal, reviewed changes.",
+  "tools": ["diff", "patch"],
+  "permissions": ["read_repo", "propose_patch"]
+}

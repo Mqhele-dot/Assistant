@@ -1,0 +1,6 @@
+{
+  "name": "safe_terminal",
+  "description": "Run approved commands only with explicit user approval.",
+  "tools": ["terminal"],
+  "permissions": ["run_commands"]
+}
